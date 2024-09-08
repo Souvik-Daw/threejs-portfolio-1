@@ -1,0 +1,13 @@
+npm create vite@latest my-vue-app -- --template react
+npm i vite@latest -D
+
+install tailwind css using CLI
+npm install --leagacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component framer-motion react-router-dom
+npm install --leagacy-peer-deps three
+
+npm run dev
+
+export default {
+  base: '/subscriber/',
+}
+npm run build
